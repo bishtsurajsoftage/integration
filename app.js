@@ -1,3 +1,3 @@
 console.log('resolving conflicts')
 console.log('newsapp')
-console.log('resilve')
+console.log('error')
