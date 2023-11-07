@@ -4,4 +4,3 @@ console.log('error')
 console.log('conflict')
 console.log('conflict of merge')
 
-console.log('all')
